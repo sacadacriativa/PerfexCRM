@@ -3596,31 +3596,31 @@ $lang['pay_with_card']                                               = 'Pague Co
 $lang['not_customer_uploaded_file']                                  = 'Novo arquivo (s) carregado no perfil';
 
 # Version 2.2.1
-$lang['customer_files_info_message'] = 'Files from projects and tasks linked to the customer are not shown on this table.';
-$lang['ticket_import_reply_only'] = 'Try to import only the actual ticket reply (without quoted/forwarded message)';
+$lang['customer_files_info_message'] = 'Arquivos de projetos e tarefas vinculados ao cliente não são mostrados nesta tabela.';
+$lang['ticket_import_reply_only'] = 'Tente importar apenas a resposta do ticket real (sem mensagem citada/encaminhada)';
 $lang['learn_more'] = 'Learn More';
 $lang['sales_item']                  = 'Item';
 
 # Version 2.3.0
 
-$lang['modules']                    = 'Modules';
-$lang['module']                     = 'Module';
-$lang['module_description']         = 'Description';
-$lang['module_activate']            = 'Activate';
-$lang['module_deactivate']          = 'Deactivate';
-$lang['module_uninstall']           = 'Uninstall';
-$lang['module_upgrade_database']    = 'Upgrade Database';
-$lang['module_settings']            = 'Settings';
-$lang['module_version']             = 'Version %s';
-$lang['module_by']                  = 'By %s';
-$lang['staff_which_are_using_role'] = 'Staff members which are using this role';
-$lang['copy']                       = 'Copy';
-$lang['read_more']                  = 'Read More';
-$lang['show_less']                  = 'Show Less';
-$lang['project_progress_text']      = 'Project Progress';
-$lang['timer_not_stopped_yet']                   = 'This timer is not yet stopped';
-$lang['refunds']                                 = 'Refunds';
-$lang['refund']                                  = 'Refund';
-$lang['refund_amount']                           = 'Refunded Amount';
-$lang['not_refunds_found']                       = 'No refunds found';
-$lang['refunds_applied_cant_delete_credit_note'] = 'This credit note has refunds applied, you need first to delete the refunds in order to delete the credit note.';
+$lang['modules']                    = 'Módulos';
+$lang['module']                     = 'Módulo';
+$lang['module_description']         = 'Descrição';
+$lang['module_activate']            = 'Ativar';
+$lang['module_deactivate']          = 'Desativar';
+$lang['module_uninstall']           = 'Desinstalar';
+$lang['module_upgrade_database']    = 'Atualizar Banco de Dados';
+$lang['module_settings']            = 'Configurações';
+$lang['module_version']             = 'Versão %s';
+$lang['module_by']                  = 'Por %s';
+$lang['staff_which_are_using_role'] = 'Membros da equipe que estão usando essa Função';
+$lang['copy']                       = 'Copiar';
+$lang['read_more']                  = 'Leia Mais';
+$lang['show_less']                  = 'Mostrar Menos';
+$lang['project_progress_text']      = 'Progresso do Projeto';
+$lang['timer_not_stopped_yet']                   = 'Este temporizador ainda não está parado';
+$lang['refunds']                                 = 'Reembolsos';
+$lang['refund']                                  = 'Reembolso';
+$lang['refund_amount']                           = 'Montante Reembolsado';
+$lang['not_refunds_found']                       = 'Nenhum reembolso encontrado';
+$lang['refunds_applied_cant_delete_credit_note'] = 'Esta nota de crédito tem reembolsos aplicados, você precisa primeiro excluir os reembolsos, a fim de excluir a nota de crédito.';
